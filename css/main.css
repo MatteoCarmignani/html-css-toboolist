@@ -60,7 +60,23 @@ hr{
     font-size: 18px;
     vertical-align: 1px;
 }
-/* ovali attorno alle scritte*/
+/* check*/
+
+.ok{
+    color:green;
+    border:1px solid;
+    border-radius: 50%;
+    padding:1px 3px;
+    font-size: small;
+}
+.no{
+    color:red;
+    border:1px solid;
+    border-radius: 50%;
+    padding:1px 3px;
+    font-size: small;
+}
+/* colori*/
 
 .blu {background-color: #55b2eb;
       border-radius: 6px;
@@ -82,6 +98,18 @@ hr{
 }
 .arancione {
       background-color: #f2a43f;
+      border-radius: 6px;
+      color: white;
+      padding: 4px;
+}
+.rosa {
+      background-color: #d864a2;
+      border-radius: 6px;
+      color: white;
+      padding: 4px;
+}
+.pisello {
+      background-color: #b5cc3a;
       border-radius: 6px;
       color: white;
       padding: 4px;
