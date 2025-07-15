@@ -1,5 +1,18 @@
+body {
+    background-color: #f6f8f9;
+    box-sizing: border-box;
+    margin: 0;
+}
+
 *{
     font-family: "Roboto", sans-serif;
+}
+/*Main Header*/
+
+#main-header {
+    background-color: white;
+    margin-bottom: 35px;
+    
 }
 /*Titolo*/
 #titolo {
@@ -7,6 +20,51 @@
     vertical-align: 16px;
 }
 
+#main-centrale {
+    background-color: white;
+    padding-left: 8%;
+    padding-right: 8%;
+    margin-right: 10%;
+    margin-left: 10%;
+    
+}
 
+hr{
+    margin:1px;
+    border:rgb(247,248,250);
+    background-color: rgb(247,248,250);
+}
 
+/*Bottoni*/
+.bottom-menu {
+    border-bottom: 2px solid; 
+    padding-bottom: 10px; 
+    padding-top: 10px";
+}
+#bottone-blu {
+    background-color: #1e90ff;
+    border-color: #1e90ff;
+    color: white;
+    border-radius: 6px;
+    padding: 4px 10px;
+}
+#bottone-bianco {
+    background-color: white;
+    border-color: #dcdcde;
+    color: #dcdcde;
+    border-radius: 6px;
+    padding: 4px 10px;
+}
+
+.elenco {
+    font-size: 18px;
+    vertical-align: 1px;
+}
+/* ovali attorno alle scritte*/
+.sezioni {
+          background-color: #55b2eb;
+    border-radius: 7px;
+    padding: 2px 4px;
+    color: white;
+}
 
