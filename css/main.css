@@ -26,21 +26,18 @@ body {
     padding-right: 8%;
     margin-right: 10%;
     margin-left: 10%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 20px;
     
 }
 
 hr{
-    margin:1px;
+    padding: 2px;
     border:#f6f8f9;
     background-color: #f6f8f9;
 }
 
-/*Bottoni*/
-.bottom-menu {
-    border-bottom: 2px solid; 
-    padding-bottom: 10px; 
-    padding-top: 10px";
-}
 #bottone-blu {
     background-color: #1e90ff;
     border-color: #1e90ff;
