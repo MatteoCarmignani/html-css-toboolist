@@ -20,7 +20,8 @@ body {
     vertical-align: 16px;
 }
 
-#main-centrale {
+/*parte centrale*/
+.main-centrale {
     background-color: white;
     padding-left: 8%;
     padding-right: 8%;
@@ -33,9 +34,8 @@ body {
 }
 
 hr{
-    padding: 2px;
-    border:#f6f8f9;
-    background-color: #f6f8f9;
+    background-color:#f6f8f9;
+    color: #f6f8f9;
 }
 
 #bottone-blu {
