@@ -11,9 +11,9 @@ body {
 
 #main-header {
     background-color: white;
-    margin-bottom: 35px;
-    
+    margin-bottom: 35px;   
 }
+
 /*Titolo*/
 #titolo {
     font-size: 36px;
@@ -30,6 +30,7 @@ body {
     padding-top: 1%;
     padding-bottom: 1%;
     border-radius: 20px;
+    margin-bottom: 5px;
     
 }
 
